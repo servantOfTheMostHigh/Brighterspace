@@ -5,8 +5,8 @@
 // @version 1.0
 // @license https://www.apache.org/licenses/LICENSE-2.0
 // @homepage https://github.com/servantOfTheMostHigh
-// @updateURL 
-// @downloadURL 
+// @updateURL https://raw.githubusercontent.com/servantOfTheMostHigh/Brighterspace/main/Brighterspace.user.js
+// @downloadURL https://raw.githubusercontent.com/servantOfTheMostHigh/Brighterspace/main/Brighterspace.user.js
 // @match       *://xfactor.rug.nl/*
 // ==/UserScript==
 
